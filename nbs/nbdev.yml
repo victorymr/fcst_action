@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fcst_action"
+  site-url: "https://victorymr.github.io/fcst_action"
+  description: "fcst based actions - wsl"
+  repo-branch: main
+  repo-url: "https://github.com/victorymr/fcst_action"
