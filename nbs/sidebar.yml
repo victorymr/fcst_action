@@ -4,4 +4,6 @@ website:
       - index.ipynb
       - 00_utils.ipynb
       - 01_core.ipynb
+      - 02_predtrend.ipynb
       - ads_over_time.html
+      - index_st.ipynb
